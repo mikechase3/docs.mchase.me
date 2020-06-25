@@ -15,4 +15,5 @@
 * [Jun 22, 2020: Lessons on Teamwork](airforce-summer-2020/jun-22-2020-air-force-academy.md)
 * [\*Day 007: New Employee Orientation](airforce-summer-2020/jun-23-2020-onboarding.md)
 * [Jun 24, 2020](airforce-summer-2020/jun-24-2020.md)
+* [Day 010: Oh Unity](airforce-summer-2020/day-010-oh-unity.md)
 
