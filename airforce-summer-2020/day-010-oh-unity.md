@@ -1,4 +1,4 @@
-# Day 010: Oh Unity
+# Day 010: Unity
 
 ## Legacy Troubleshooting
 
