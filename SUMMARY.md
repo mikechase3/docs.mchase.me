@@ -17,4 +17,5 @@
 * [Day 09: Proper Communication](airforce-summer-2020/jun-24-2020.md)
 * [Day 010: Unity](airforce-summer-2020/day-010-oh-unity.md)
 * [Day 011: Frappuccinos and Covid](airforce-summer-2020/day-011-frappuccinos-and-covid.md)
+* [Day 014](airforce-summer-2020/day-014.md)
 
