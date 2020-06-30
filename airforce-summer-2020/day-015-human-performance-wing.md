@@ -6,7 +6,19 @@
 * Management position with the deputy chair.
 * Senior technical advisor.
 
+![SARS-CoV-2 is the one we&apos;re worrying about.](../.gitbook/assets/image%20%2854%29.png)
+
+![](../.gitbook/assets/image%20%2853%29.png)
+
+![](../.gitbook/assets/image%20%2852%29.png)
+
+
+
 ## Covid 19 Response
+
+![](../.gitbook/assets/image%20%2856%29.png)
+
+![](../.gitbook/assets/image%20%2851%29.png)
 
 ## Mollecular Tools for Biosensing
 
