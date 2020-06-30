@@ -16,6 +16,8 @@
 
 ## Covid 19 Response
 
+Speaker: Dr. Clarise Starr. clarise.starr @ \[youKnowWhere\]
+
 ![](../.gitbook/assets/image%20%2856%29.png)
 
 ![](../.gitbook/assets/image%20%2851%29.png)
