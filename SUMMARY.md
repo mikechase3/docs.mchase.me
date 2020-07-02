@@ -20,4 +20,5 @@
 * [Day 014 Air Force Maker Space](airforce-summer-2020/day-014.md)
 * [Day 015: Human Performance Wing](airforce-summer-2020/day-015-human-performance-wing.md)
 * [Day 016: Cybersecurity](airforce-summer-2020/day-016-cybersecurity.md)
+* [Day 017](airforce-summer-2020/day-017.md)
 
