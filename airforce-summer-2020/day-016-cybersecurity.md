@@ -1104,3 +1104,427 @@
 * Pulled in and didn't turn his lights off but someone had to jump his car.
 * joseph.bradley.3 at \[air force\]
 
+## Covid Team Planning
+
+### Transcript
+
+> WEBVTT
+>
+> 1 00:00:01.350 --&gt; 00:00:07.680 Michael Chase: And now this whole meetings like being recorded so if you go back and I don't know like
+>
+> 2 00:00:07.830 --&gt; 00:00:09.300 Jayden Smith: It basically looks for the name
+>
+> 3 00:00:09.690 --&gt; 00:00:15.780 Jayden Smith: And you'll just Mike will put the little like whoever's talking up in the top right corner and you can click through the slides.
+>
+> 4 00:00:17.220 --&gt; 00:00:17.460 Karlyle Munz: Yeah.
+>
+> 5 00:00:20.370 --&gt; 00:00:20.760 That's cool.
+>
+> 6 00:00:21.900 --&gt; 00:00:22.470 Maddie: Um, yeah.
+>
+> 7 00:00:27.420 --&gt; 00:00:30.060 Maddie: Okay, well that was that's good work or
+>
+> 8 00:00:32.940 --&gt; 00:00:33.720 Maddie: Anything else
+>
+> 9 00:00:37.980 --&gt; 00:00:40.440 Maddie: You're being other questions that I can help with
+>
+> 10 00:00:44.280 --&gt; 00:00:45.630 Maddie: Madison, if you
+>
+> 11 00:00:47.310 --&gt; 00:00:52.590 Maddie: If you can't get ahold of Miss Davis or missing that or whatever I can find you a career field.
+>
+> 12 00:00:54.900 --&gt; 00:01:04.380 Maddie: Contact. Also, honestly, I might be able to find everybody's so like you'll have government emails, but in the government, you know, you can like search like global
+>
+> 13 00:01:05.520 --&gt; 00:01:06.900 Maddie: Search everybody's
+>
+> 14 00:01:09.450 --&gt; 00:01:11.670 Maddie: Like I can find anybody's email ever
+>
+> 15 00:01:12.270 --&gt; 00:01:12.780 Maddie: I just
+>
+> 16 00:01:12.870 --&gt; 00:01:15.000 Maddie: I would have to know I would have to find somebody
+>
+> 17 00:01:16.620 --&gt; 00:01:28.050 Maddie: That works under them like our works with them and I could click and see who they all work for an academic find it so I could do some serious digging. If you need me to and find find you on if your supervisor can help.
+>
+> 18 00:01:28.560 --&gt; 00:01:29.160 Maddie: Just like I think
+>
+> 19 00:01:29.670 --&gt; 00:01:42.120 Geneva Anderson: I think at this point since we've basically finished the match com everyone just needs to do is just email your supervisor and just say, Hey, this is what we need to do. Can you give us information, and if not, can you point us towards our career field.
+>
+> 20 00:01:43.140 --&gt; 00:01:48.270 Geneva Anderson: Because at this point it's literally we just all need to do a slide basically and we're done. Yeah.
+>
+> 21 00:01:48.420 --&gt; 00:01:48.930 Correct.
+>
+> 22 00:01:50.040 --&gt; 00:02:03.030 Maddie: So, and you can add like pictures and things I'm to your slides. They just have to be within the white square of the PC format, but you can like make it look better.
+>
+> 23 00:02:03.840 --&gt; 00:02:04.710 Rachelle H.: Now better just like
+>
+> 24 00:02:04.740 --&gt; 00:02:05.670 Maddie: You know I'm saying, like,
+>
+> 25 00:02:05.820 --&gt; 00:02:06.720 Rachelle H.: Video on her.
+>
+> 26 00:02:06.840 --&gt; 00:02:08.580 Maddie: Face it up. Yeah.
+>
+> 27 00:02:09.960 --&gt; 00:02:18.120 Maddie: Well, let me see. I've been I have mine somewhere here from last year last year. Oh, how to do that show you
+>
+> 28 00:02:19.860 --&gt; 00:02:27.570 Maddie: It's, it's like start sharing. Oh, you know, it might be online where it is now. It might be on here. I think it was on the Google
+>
+> 29 00:02:28.650 --&gt; 00:02:30.420 Maddie: It was probably a Google slide.
+>
+> 30 00:02:32.340 --&gt; 00:02:34.140 Maddie: Really not work this if you know
+>
+> 31 00:02:38.430 --&gt; 00:02:46.350 Maddie: I know how to work it for myself like I know how to save stuff too. Like my thing. But I can't figure it out. I'm
+>
+> 32 00:02:46.560 --&gt; 00:02:47.790 Michael Chase: Just gonna share your screen.
+>
+> 33 00:02:48.810 --&gt; 00:02:51.120 Maddie: Yeah, no, I'm just saying, like the Google like Google stuff like
+>
+> 34 00:02:52.440 --&gt; 00:02:56.040 Maddie: Like when I make my own presentations I can figure out, but I
+>
+> 35 00:02:59.130 --&gt; 00:03:00.990 OK, this is the right one.
+>
+> 36 00:03:03.720 --&gt; 00:03:05.220 What's the closed caption feature.
+>
+> 37 00:03:06.540 --&gt; 00:03:08.340 Maddie: What I do is go to zoom
+>
+> 38 00:03:11.790 --&gt; 00:03:13.470 Maddie: Okay, good resume and then I say,
+>
+> 39 00:03:14.880 --&gt; 00:03:16.110 Geneva Anderson: Debate. The bottom by their
+>
+> 40 00:03:16.110 --&gt; 00:03:16.710 Screen.
+>
+> 41 00:03:18.060 --&gt; 00:03:18.360 Right.
+>
+> 42 00:03:22.350 --&gt; 00:03:22.800 Maddie: Can you see
+>
+> 43 00:03:24.540 --&gt; 00:03:24.750 Maddie: Me.
+>
+> 44 00:03:25.080 --&gt; 00:03:30.210 Maddie: You see my screen. Okay. Oh, sorry. This is my is my master's homework that I have to do.
+>
+> 45 00:03:30.750 --&gt; 00:03:31.110 Oh,
+>
+> 46 00:03:34.620 --&gt; 00:03:34.980 Rachelle H.: Good.
+>
+> 47 00:03:35.160 --&gt; 00:03:36.660 Maddie: It's not, it's not good at all.
+>
+> 48 00:03:37.980 --&gt; 00:03:38.940 Maddie: Okay, so this is mine.
+>
+> 49 00:03:40.140 --&gt; 00:03:41.280 Maddie: And so I'm
+>
+> 50 00:03:42.990 --&gt; 00:03:47.730 Maddie: A little project here, so ours was about do which was
+>
+> 51 00:03:50.130 --&gt; 00:04:01.020 Maddie: Designated know deliberately designate the organization. So we've had. So we had like it wasn't like match com related. It was just like they gave us this thing and we actually talked about. So do is like a
+>
+> 52 00:04:04.710 --&gt; 00:04:09.450 Maddie: Like what a, I don't know. It's like a technique that people could use in their company to like
+>
+> 53 00:04:10.530 --&gt; 00:04:17.910 Maddie: Promote certain things. So like, look, we had like little like I'm saying, like, like, like pictures and stuff and
+>
+> 54 00:04:18.480 --&gt; 00:04:23.190 Maddie: So we have an agenda beginning to talk about like all the things we're talking about. So y'all might want to add that, too. So like
+>
+> 55 00:04:23.640 --&gt; 00:04:29.820 Maddie: Just literally just like as an agenda and have bullet points and you're, you're just somebody who starts up whoever introduces will just say
+>
+> 56 00:04:30.360 --&gt; 00:04:36.990 Maddie: Hey, I'm Mary Oliver and today we're going to be talking about what did you do, is how companies are currently using this method.
+>
+> 57 00:04:37.680 --&gt; 00:04:55.830 Maddie: How it how it could benefit FPC what the implementation look like and what kind of methodology will be working with the funding and how long it will take just, you know, and so I would have something at the beginning like that. Did you also have this at the bottom, the Agile hahaha
+>
+> 58 00:04:58.200 --&gt; 00:04:58.620 Andrew Swisher: Yes.
+>
+> 59 00:04:58.800 --&gt; 00:05:03.720 Maddie: I remember saying that it was there. It's there. Yep. Okay, great. Oh, man.
+>
+> 60 00:05:05.370 --&gt; 00:05:18.570 Maddie: We've been I just talked about all those things on my agenda. So what to do. So look, it can be different than like you can like see how like there's not bullet points like you know I'm saying you can just like you can make it whatever it just has to be in specific fonts and
+>
+> 61 00:05:19.680 --&gt; 00:05:20.970 Maddie: Like sizes, a font.
+>
+> 62 00:05:22.110 --&gt; 00:05:25.620 Maddie: But you can pretty much do what you want in this portion of it.
+>
+> 63 00:05:26.820 --&gt; 00:05:31.560 Maddie: Okay, so he's talking about like what it is we had this quote
+>
+> 64 00:05:33.630 --&gt; 00:05:41.460 Maddie: And we had to use like resources like we have used books and stuff. So we had to come up with like ways to like integrate the book into our vision.
+>
+> 65 00:05:43.170 --&gt; 00:05:43.860 Maddie: Different companies.
+>
+> 66 00:05:45.630 --&gt; 00:05:48.300 Maddie: And then different companies. We had to talk about like
+>
+> 67 00:05:51.330 --&gt; 00:06:04.470 Maddie: We have to bring other like examples. And so I would definitely try to make your things minimum minimal and then just talk about. So there was a whole speech. Somebody gave on next jump and Bridgewater, but we didn't type it all out. Right.
+>
+> 68 00:06:07.410 --&gt; 00:06:22.200 Maddie: And then this was a long on this was a year ago and they remember. Oh, this is the next jump company just like talking about that Bridgewater dreamin it. So, look, we added like pictures like this was their logo and the logo. So maybe you can find some in it. So they have RC and put it
+>
+> 69 00:06:24.120 --&gt; 00:06:30.420 Maddie: Maybe could find something that says like for support contracting. I think they all have little logos, maybe, and
+>
+> 70 00:06:32.340 --&gt; 00:06:33.330 Maddie: How to implement
+>
+> 71 00:06:33.570 --&gt; 00:06:33.960 Andrew Swisher: Whatever.
+>
+> 72 00:06:34.710 --&gt; 00:06:35.880 Maddie: So it's not that exciting but
+>
+> 73 00:06:38.610 --&gt; 00:06:39.180 Maddie: Our timeline.
+>
+> 74 00:06:39.540 --&gt; 00:06:47.070 Maddie: And then we had our timeline. So we like. So you can. You don't even have to use words you can use like charts. I don't know if y'all need a chart for anything but maybe
+>
+> 75 00:06:47.880 --&gt; 00:06:55.890 Maddie: Maybe you could put like a little like maybe you could put words and then underneath. Just a simple Timeline of, like, so like for support. Like, I went home. On March 16
+>
+> 76 00:06:56.250 --&gt; 00:07:11.400 Maddie: And then on this once a month, we have a meeting with our director and then we were supposed to go back to this day, but it didn't happen. So now indefinitely. We're here at home, you know, something like that.
+>
+> 77 00:07:13.980 --&gt; 00:07:15.000 Michael Chase: I'm great at making those
+>
+> 78 00:07:15.240 --&gt; 00:07:16.470 Maddie: Smile. Perfect.
+>
+> 79 00:07:17.490 --&gt; 00:07:18.600 Maddie: Hello, hello smiley face.
+>
+> 80 00:07:21.840 --&gt; 00:07:27.930 Maddie: Also, we had a limit on flights and time. I think you're only have a time limit, you have a slide limit to
+>
+> 81 00:07:30.150 --&gt; 00:07:30.390 Andrew Swisher: Know,
+>
+> 82 00:07:30.570 --&gt; 00:07:32.130 Maddie: So that's kind of why I always have a lot of words.
+>
+> 83 00:07:33.360 --&gt; 00:07:41.430 Maddie: Like I wouldn't put this many words but like we had that we only had like 15 slides or something. We couldn't go over. So it was like trying to cram it all, but
+>
+> 84 00:07:42.150 --&gt; 00:07:54.720 Maddie: Until you see I use like different bullet points. It doesn't have to be specific. It can be anything. It's really just like this top part has to be the same and the bottom part and then your font has to be like specific but besides that. It can be anything.
+>
+> 85 00:07:56.340 --&gt; 00:07:57.060 Maddie: Else math.
+>
+> 86 00:07:59.700 --&gt; 00:08:04.500 Maddie: Yeah, and then a DP map. And it's very complicated or
+>
+> 87 00:08:06.180 --&gt; 00:08:11.730 Maddie: And then, oh, this was current benefits in time. So instead of career fields we did sections. So like
+>
+> 88 00:08:12.810 --&gt; 00:08:14.970 Maddie: What was this one. I know this. So,
+>
+> 89 00:08:17.130 --&gt; 00:08:34.860 Maddie: In for support. Sorry if I were to just for support people also like my group was all just for sport. So within for sport you can work in staffing classification or benefits and entitlements. And so we did like that versus doing the career fill as a whole.
+>
+> 90 00:08:36.780 --&gt; 00:08:40.830 Oh, I don't know what the timeline is. Oh, oh, it's coming. It's coming.
+>
+> 91 00:08:45.870 --&gt; 00:08:52.800 Maddie: Oh, and then I told you all at the beginning I had like a vision. We have a physical vision board that we made. So that was we talked about it right here.
+>
+> 92 00:08:54.360 --&gt; 00:08:59.970 Maddie: And then I was it and then you have to end with this. I don't know if that was in your ending, but you have to end with a emblem.
+>
+> 93 00:09:01.500 --&gt; 00:09:02.730 Maddie: And and then References
+>
+> 94 00:09:04.170 --&gt; 00:09:06.420 Maddie: And that's it. So, um,
+>
+> 95 00:09:07.500 --&gt; 00:09:11.310 Maddie: Yeah, ours. Ours was 19 slides. So I guess I think 20 was are like
+>
+> 96 00:09:12.540 --&gt; 00:09:13.500 Maddie: Minimum or whatever.
+>
+> 97 00:09:14.550 --&gt; 00:09:16.110 Maddie: On my tabs. This is my life.
+>
+> 98 00:09:18.180 --&gt; 00:09:19.560 Maddie: And so
+>
+> 99 00:09:20.850 --&gt; 00:09:24.360 Maddie: Yeah, that's, that's all I got for you. That was my project.
+>
+> 100 00:09:27.480 --&gt; 00:09:27.660 Yeah.
+>
+> 101 00:09:31.170 --&gt; 00:09:34.560 Maddie: So y'all need to do before besides critical stuff.
+>
+> 102 00:09:36.210 --&gt; 00:09:38.340 Karlyle Munz: That's it. Right. We know how it works.
+>
+> 103 00:09:38.400 --&gt; 00:09:41.160 Karlyle Munz: We can actually work on the slides a little more
+>
+> 104 00:09:41.520 --&gt; 00:09:42.390 Maddie: The curve. Yeah.
+>
+> 105 00:09:42.450 --&gt; 00:09:43.560 Karlyle Munz: Yeah, that makes a lot easier.
+>
+> 106 00:09:44.040 --&gt; 00:09:49.950 Maddie: Yeah, so I'm just work on. I mean, I would just get the information for the you're pretty much ahead, you're fine.
+>
+> 107 00:09:50.700 --&gt; 00:10:00.660 Maddie: So just get the curricula information and that now that your head if they don't reply immediately. It'll be fine. You know, you have to literally the 20th or something to get it. So you have 20
+>
+> 108 00:10:00.660 --&gt; 00:10:03.390 Maddie: Days. Um, so
+>
+> 109 00:10:04.560 --&gt; 00:10:05.550 Maddie: Yeah, I would just
+>
+> 110 00:10:07.080 --&gt; 00:10:13.200 Maddie: Contact critical people and see if they can help and or your supervisor and then if they can't help contact the
+>
+> 111 00:10:14.610 --&gt; 00:10:15.570 Maddie: Field team.
+>
+> 112 00:10:16.590 --&gt; 00:10:17.520 And then, yeah.
+>
+> 113 00:10:18.630 --&gt; 00:10:21.630 Maddie: And then the 20th, or whenever before then.
+>
+> 114 00:10:21.810 --&gt; 00:10:33.780 Maddie: Because obviously my days are off, we can meet again and then just we can put your presentation together and then y'all can like practice and y'all can figure out how to record it on zoom or whatever.
+>
+> 115 00:10:35.520 --&gt; 00:10:39.930 Maddie: And then you'll be good to go. So y'all aren't going to present at the
+>
+> 116 00:10:40.290 --&gt; 00:10:42.420 Maddie: On the 23rd, you're just going to click play
+>
+> 117 00:10:43.050 --&gt; 00:10:44.280 Maddie: Or like send it to them or something.
+>
+> 118 00:10:44.310 --&gt; 00:10:49.500 Karlyle Munz: Yeah, they said, we have the option of recording it so we thought, we'll be able to get it more polished that way. True.
+>
+> 119 00:10:49.920 --&gt; 00:10:54.420 Maddie: True. So the I'll just like send them the link or something like send them like a
+>
+> 120 00:10:54.930 --&gt; 00:10:55.350 Karlyle Munz: I guess.
+>
+> 121 00:10:56.010 --&gt; 00:10:56.730 Geneva Anderson: Probably just like
+>
+> 122 00:10:57.420 --&gt; 00:10:58.350 Geneva Anderson: The video
+>
+> 123 00:10:58.530 --&gt; 00:11:03.120 Maddie: Yeah. Hmm. Interesting. And then y'all just will be there watching yourself.
+>
+> 124 00:11:03.570 --&gt; 00:11:06.240 Karlyle Munz: And then we'll be there to ask answer questions after
+>
+> 125 00:11:08.070 --&gt; 00:11:08.880 Karlyle Munz: Clarified
+>
+> 126 00:11:10.080 --&gt; 00:11:12.690 Maddie: Awesome. Now let's jump on it together.
+>
+> 127 00:11:14.550 --&gt; 00:11:25.980 Maddie: Yeah, they're going to your head. I think there's something else just makes you a little information. Turn that you put on that first document you shared with me, like the really put together ornament.
+>
+> 128 00:11:27.840 --&gt; 00:11:35.070 Maddie: Put on your slides and then later we can, like, make sure that like it's all you know, looking good.
+>
+> 129 00:11:36.960 --&gt; 00:11:45.900 Maddie: Yeah, you can add some pictures or whatever. Someone things, whether we're but yeah let's go ahead and just talk to your career fields and then
+>
+> 130 00:11:47.460 --&gt; 00:11:48.000 Maddie: You're done.
+>
+> 131 00:11:48.600 --&gt; 00:11:49.200 So easy.
+>
+> 132 00:11:51.600 --&gt; 00:11:54.450 Maddie: Okay. Well, that was a good luck to my real job.
+>
+> 133 00:11:57.330 --&gt; 00:12:03.900 Maddie: Let me just text me yeah text me in the group message or let me know if you need help finding a career field person.
+>
+> 134 00:12:03.960 --&gt; 00:12:10.200 Maddie: Okay. Dr. Supervisor first. But if they like non helping, let me know. My so I have one for you. If you need one. So,
+>
+> 135 00:12:11.700 --&gt; 00:12:12.840 Maddie: Okay, thanks. Bye.
+>
+> 136 00:12:13.440 --&gt; 00:12:14.010 Rachelle H.: See ya.
+>
+> 137 00:12:15.180 --&gt; 00:12:22.140 Geneva Anderson: So I'm SME you guys do all want to message your supervisors should just one of us like what's going to be going on there.
+>
+> 138 00:12:22.410 --&gt; 00:12:24.480 Karlyle Munz: I see. I see everybody just contacts on
+>
+> 139 00:12:24.600 --&gt; 00:12:27.960 Karlyle Munz: You know, I mean, we're all going to talk with them right after this. Right, we already
+>
+> 140 00:12:30.060 --&gt; 00:12:33.210 Jayden Smith: Know, or get through all the ideas down there. We'll just pick
+>
+> 141 00:12:33.240 --&gt; 00:12:34.590 Jayden Smith: Yeah, whichever ones.
+>
+> 142 00:12:35.130 --&gt; 00:12:35.490 Yeah.
+>
+> 143 00:12:37.320 --&gt; 00:12:38.100 Geneva Anderson: I think we're done.
+>
+> 144 00:12:38.520 --&gt; 00:12:43.200 Jayden Smith: You have your super kak appointment Jenny that you got to travel forever to or that
+>
+> 145 00:12:43.860 --&gt; 00:12:44.730 Geneva Anderson: It was this morning.
+>
+> 146 00:12:44.910 --&gt; 00:12:45.720 Jayden Smith: I was this morning.
+>
+> 147 00:12:45.840 --&gt; 00:12:47.280 Geneva Anderson: I had to get up very early and I
+>
+> 148 00:12:47.460 --&gt; 00:12:49.530 Jayden Smith: Thought you said you were going to be here today because you're going to be on
+>
+> 149 00:12:50.490 --&gt; 00:12:52.080 Geneva Anderson: Your card I accidentally switch
+>
+> 150 00:12:52.410 --&gt; 00:12:53.880 Geneva Anderson: The coven and the
+>
+> 151 00:12:55.080 --&gt; 00:12:57.180 Geneva Anderson: The senior mentor groups in my head.
+>
+> 152 00:12:57.570 --&gt; 00:12:58.830 Karlyle Munz: So I missed the senior mentor.
+>
+> 153 00:13:00.210 --&gt; 00:13:02.910 Jayden Smith: They give you a card left. Oh, cool.
+>
+> 154 00:13:03.900 --&gt; 00:13:17.820 Geneva Anderson: Yeah, I was crazy. Actually, he had to go in and get the card and you go to a separate room and they like attached to your card to your ID. If you had the Real ID that Florida has. And so you can get on base with just your ID. If you leave your card on base on accident.
+>
+> 155 00:13:19.920 --&gt; 00:13:24.930 Andrew Swisher: bargain with them to get a date from on they wanted to get man like July 31 Mike
+>
+> 156 00:13:28.230 --&gt; 00:13:32.850 Andrew Swisher: Mike, can you doing better that are like we do, July 17 and like I needed better than that.
+>
+> 157 00:13:33.450 --&gt; 00:13:34.020 Geneva Anderson: July 3
+>
+> 158 00:13:34.830 --&gt; 00:13:37.110 Andrew Swisher: Work. I don't know how bargains.
+>
+> 159 00:13:37.260 --&gt; 00:13:38.160 Michael Chase: almost a month out
+>
+> 160 00:13:39.240 --&gt; 00:13:41.430 Andrew Swisher: Why don't you just give me the July 13 the first time.
+>
+> 161 00:13:44.070 --&gt; 00:13:52.710 Geneva Anderson: Yeah, it was pretty like like high key though like Lyft when I went in for my briefing. It was whatever like happy boring mass half weren't
+>
+> 162 00:13:53.070 --&gt; 00:13:57.090 Geneva Anderson: But I guess because, you know, Florida, are all done masses and no one can look where their mass
+>
+> 163 00:13:57.420 --&gt; 00:14:10.140 Geneva Anderson: This time it was mandatory mass. They asked if you had symptoms they checked your temperature when you walked in, they went to a room and they like have all these people separated. It's very strict now.
+>
+> 164 00:14:11.490 --&gt; 00:14:14.790 Michael Chase: What I did is you need, like, did you ever bring more than just
+>
+> 165 00:14:15.060 --&gt; 00:14:24.720 Geneva Anderson: You have to bring to I'm leaving in two forms of ID, but it's weird because your first trip hit counts as one. So, just bring your driver's license in your birth certificate
+>
+> 166 00:14:24.810 --&gt; 00:14:25.890 Karlyle Munz: Is a passport work to
+>
+> 167 00:14:26.250 --&gt; 00:14:27.570 Karlyle Munz: Yes, yes. Okay, cool. It's
+>
+> 168 00:14:28.290 --&gt; 00:14:31.710 Rachelle H.: Like your driver's license and your social security card right
+>
+> 169 00:14:31.740 --&gt; 00:14:33.390 Geneva Anderson: Yeah, it's like a primary
+>
+> 170 00:14:33.930 --&gt; 00:14:35.430 Geneva Anderson: Secondary listen earning
+>
+> 171 00:14:36.570 --&gt; 00:14:37.020 Rachelle H.: One.
+>
+> 172 00:14:38.070 --&gt; 00:14:38.400 Geneva Anderson: Oh, yeah.
+>
+> 173 00:14:38.460 --&gt; 00:14:43.080 Andrew Swisher: Take the same stuff is your fingerprinting lives where you took to that you should be able to take for this modern
+>
+> 174 00:14:43.110 --&gt; 00:14:47.760 Jayden Smith: Fingerprinting more lacks they're more relaxed with that. Like he can take in like a debit card for that.
+>
+> 175 00:14:49.590 --&gt; 00:14:50.160 Michael Chase: Graph of how
+>
+> 176 00:14:50.490 --&gt; 00:14:57.870 Jayden Smith: Sensitive yeah they take your debit card. I mean, if you go on base then they don't but anything off site that's all they care about, like,
+>
+> 177 00:14:58.920 --&gt; 00:15:01.710 Jayden Smith: Me as your name on it basically back
+>
+> 178 00:15:03.090 --&gt; 00:15:15.720 Michael Chase: To the UPS store and got my fingerprints and like did not give a flying car, they're like, yeah, just do your fingerprints on they just walked away like look like this. A tiger. Yes, was to do that.
+>
+> 179 00:15:17.340 --&gt; 00:15:31.350 Geneva Anderson: Um, I went to get my bass pass and these guys almost didn't give me like base pass because I didn't know that my base pass from onboarding last set of fucking month. And they were like, yeah, we're not going to give you a new one. And I said, but I submitted for a new one. No, no.
+>
+> 180 00:15:32.670 --&gt; 00:15:33.720 Geneva Anderson: So that was not fun.
+>
+> 181 00:15:33.930 --&gt; 00:15:36.270 Karlyle Munz: I think my only lasted a week where you don't have to England.
+>
+> 182 00:15:36.810 --&gt; 00:15:44.160 Karlyle Munz: Yeah okay yeah I'm going to Edwin from on tomorrow for my tack tomorrow. So I guess I don't think my last my last week.
+>
+> 183 00:15:45.000 --&gt; 00:15:48.990 Geneva Anderson: I thought so too, but they're like, yeah, it doesn't expire until June, July 15
+>
+> 184 00:15:49.830 --&gt; 00:15:51.330 Karlyle Munz: Off the check mine. Just make sure but
+>
+> 185 00:15:51.780 --&gt; 00:15:52.350 Andrew Swisher: Yeah.
+>
+> 186 00:15:53.100 --&gt; 00:15:54.270 Geneva Anderson: Wait, where are you, Carla.
+>
+> 187 00:15:54.990 --&gt; 00:15:55.830 Karlyle Munz: I'm in Fort Walton
+>
+> 188 00:15:56.310 --&gt; 00:15:56.730 Geneva Anderson: All right.
+>
+> 189 00:15:56.760 --&gt; 00:15:58.680 Karlyle Munz: I forgot. I'm working on, but my
+>
+> 190 00:15:58.890 --&gt; 00:16:03.090 Karlyle Munz: The unit. I'm working with is a detachment from one side to do and
+>
+> 191 00:16:04.650 --&gt; 00:16:05.820 Geneva Anderson: What was your drive like
+>
+> 192 00:16:07.710 --&gt; 00:16:08.490 Karlyle Munz: It's like 10 minutes
+>
+> 193 00:16:09.720 --&gt; 00:16:11.070 Geneva Anderson: To Edwin yeah
+>
+> 194 00:16:12.510 --&gt; 00:16:15.780 Karlyle Munz: Yeah, Herbert only like 15 minutes away. And I kind of live in between them.
+>
+> 195 00:16:16.830 --&gt; 00:16:19.800 Geneva Anderson: Screw you. Yeah, it's like an hour and 15 for me.
+>
+> 196 00:16:19.860 --&gt; 00:16:20.100 Oh,
+>
+> 197 00:16:25.530 --&gt; 00:16:26.130 Geneva Anderson: Lord
+>
+> 198 00:16:28.020 --&gt; 00:16:32.220 Michael Chase: Visit whoever's in Texas, sometimes it won't be this year but like
+>
+> 199 00:16:33.270 --&gt; 00:16:35.790 Geneva Anderson: Next year, why you want to go to Texas.
+>
+> 200 00:16:35.850 --&gt; 00:16:38.700 Geneva Anderson: No offense. Maddie. I'm sorry. Madison.
+>
+> 201 00:16:40.080 --&gt; 00:16:42.510 Madison Gibson: I don't even live in Texas. I live in South Carolina.
+>
+> 202 00:16:43.890 --&gt; 00:16:46.380 Michael Chase: Oh fun. Um, I don't know, like
+>
+> 203 00:16:46.950 --&gt; 00:16:48.270 Madison Gibson: The way I base.
+>
+> 204 00:16:51.300 --&gt; 00:17:03.210 Michael Chase: Wait, are you in Charleston, because that's like our vacation spot. Oh my gosh, we should hang up Monday, I don't know. In Texas, but like of because there's an Air Force Base in Carolina. I thought
+>
+> 205 00:17:03.390 --&gt; 00:17:06.810 Madison Gibson: Well that Air Force Base wasn't accepting pieces.
+>
+> 206 00:17:09.750 --&gt; 00:17:10.110 All right.
+>
+> 207 00:17:11.460 --&gt; 00:17:16.770 Geneva Anderson: Well, anyway, I think we're done. I missed this meeting. So I want to go.
+>
+> 208 00:17:17.820 --&gt; 00:17:20.280 Michael Chase: Okay well call this today, then
+>
+> 209 00:17:21.180 --&gt; 00:17:21.720 Michael Chase: Bye everyone.
+
