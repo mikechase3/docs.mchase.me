@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Mike Chase](README.md)
+* [Timeline](README.md)
 * [FAQ](faq.md)
 
 ## Airforce - Summer 2020
