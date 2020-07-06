@@ -21,5 +21,6 @@
   * [Day 015: Human Performance Wing](airforce-summer-2020/captains-log/day-015-human-performance-wing.md)
   * [Day 016: Cybersecurity](airforce-summer-2020/captains-log/day-016-cybersecurity.md)
   * [Day 017: Broadening and Software Engineering](airforce-summer-2020/captains-log/day-017.md)
+  * [Day 018](airforce-summer-2020/captains-log/day-018.md)
 * [New Employee Orientation](airforce-summer-2020/jun-23-2020-onboarding.md)
 

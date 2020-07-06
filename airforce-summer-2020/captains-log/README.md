@@ -19,7 +19,7 @@
 | 015 |  |  |
 | 016 |  |  |
 | 017 |  |  |
-| 018 | 6 July | Tinker STEM Presentations with software development. Teresa Bickett career journey in financial management.   |
+| 018 | 6 July | Tinker STEM Presentations with software development. Teresa Bickett career journey in financial management.  Edwardo Freeman career. Joe Whiteaker flight test engineering. |
 | 019 |  |  |
 
 
