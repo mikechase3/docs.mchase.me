@@ -13,7 +13,7 @@
   * [Day 005: AMFC](airforce-summer-2020/captains-log/day-005.md)
   * [Day 006: Air Force Speech](airforce-summer-2020/captains-log/jun-21-2020-air-force-speech.md)
   * [Day 007: Lessons on Teamwork](airforce-summer-2020/captains-log/jun-22-2020-air-force-academy.md)
-  * [\*Day 008: New Employee Orientation](airforce-summer-2020/captains-log/jun-23-2020-onboarding.md)
+  * [Day 008: Ted Talks](airforce-summer-2020/captains-log/day-008-ted-talks.md)
   * [Day 009: Proper Communication](airforce-summer-2020/captains-log/jun-24-2020.md)
   * [Day 010: Unity](airforce-summer-2020/captains-log/day-010-oh-unity.md)
   * [Day 011: Frappuccinos and Covid](airforce-summer-2020/captains-log/day-011-frappuccinos-and-covid.md)
@@ -21,5 +21,5 @@
   * [Day 015: Human Performance Wing](airforce-summer-2020/captains-log/day-015-human-performance-wing.md)
   * [Day 016: Cybersecurity](airforce-summer-2020/captains-log/day-016-cybersecurity.md)
   * [Day 017: Broadening and Software Engineering](airforce-summer-2020/captains-log/day-017.md)
-* [Untitled](airforce-summer-2020/untitled.md)
+* [New Employee Orientation](airforce-summer-2020/jun-23-2020-onboarding.md)
 
