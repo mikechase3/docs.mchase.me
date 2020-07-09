@@ -24,6 +24,6 @@
   * [\*Day 018 Flight Test Engineer](airforce-summer-2020/captains-log/day-018.md)
   * [Day 019: Space Force](airforce-summer-2020/captains-log/day-019-space-force.md)
   * [Day 020](airforce-summer-2020/captains-log/day-020.md)
-  * [Day 021: Mentoring Session](airforce-summer-2020/captains-log/day-021-mentoring-session.md)
+  * [Day 021: Mentoring & Career Development](airforce-summer-2020/captains-log/day-021-mentoring-session.md)
 * [New Employee Orientation](airforce-summer-2020/jun-23-2020-onboarding.md)
 

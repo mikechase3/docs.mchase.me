@@ -1,4 +1,4 @@
-# Day 021: Mentoring Session
+# Day 021: Mentoring & Career Development
 
 ## Professional Mentoring with Elieen Vedrine
 
