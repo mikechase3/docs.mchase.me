@@ -22,6 +22,8 @@
 
 ### Flight Test Engineering
 
+
+
 > ### Action Steps
 >
 > 1. Network
@@ -54,4 +56,15 @@
 
 * Speaker: garrett.alarcon at domain. Career field is super impressed.
 * Speaker: Nicholas Forest nicholas.forest.4@ domain. Might be wrong.
+
+## \*Moving Forward
+
+Speaker: Carol Hernandez
+
+{% hint style="info" %}
+This was a really good one I should review.
+{% endhint %}
+
+* Corporate feedback on your resumes and they give you individualized direction on going forward.
+* They suggest mentors. 
 
