@@ -1,8 +1,8 @@
 # Day 021: Mentoring Session
 
-## Mentoring with Elieen Vedrine
+## Professional Mentoring with Elieen Vedrine
 
-### Warnings for mike Chase
+### Things to Avoid
 
 | Habit | Description |
 | :--- | :--- |
@@ -21,8 +21,6 @@
 | Confidence | I like you, and the world likes me. |
 
 ### Flight Test Engineering
-
-
 
 > ### Action Steps
 >
