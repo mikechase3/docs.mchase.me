@@ -12,5 +12,5 @@ Speaker for the
 
 ## Jaime Stearns
 
-Chemist. 
+Chemist. Cool.
 
