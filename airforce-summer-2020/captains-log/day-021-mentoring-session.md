@@ -53,7 +53,9 @@
 
 ![](../../.gitbook/assets/image%20%2860%29.png)
 
-## Covid Project
+## AFIT Covid Project
+
+I saved the recording for this brief; pretty nice, young people.
 
 * Speaker: garrett.alarcon at domain. Career field is super impressed.
 * Speaker: Nicholas Forest nicholas.forest.4@ domain. Might be wrong.
