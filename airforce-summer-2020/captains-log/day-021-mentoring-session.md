@@ -49,6 +49,9 @@
 1. Ask the right questions before you accept your offer.
    1. "What if..."
    2. "Why?"
+2. Check out the [Cybersecurity Career Pathway](https://www.cyberseek.org/pathway.html) to see if it's something I want to do.
+
+![](../../.gitbook/assets/image%20%2860%29.png)
 
 ## Covid Project
 
