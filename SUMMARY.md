@@ -26,5 +26,6 @@
   * [Day 020](airforce-summer-2020/captains-log/day-020.md)
   * [Day 021: Mentoring & Career Development](airforce-summer-2020/captains-log/day-021-mentoring-session.md)
   * [\*Day 022: Problem Solving](airforce-summer-2020/captains-log/day-022-problem-solving.md)
+  * [Day 024: I Wish i Were Young](airforce-summer-2020/captains-log/day-024-i-wish-i-were-young.md)
 * [New Employee Orientation](airforce-summer-2020/jun-23-2020-onboarding.md)
 

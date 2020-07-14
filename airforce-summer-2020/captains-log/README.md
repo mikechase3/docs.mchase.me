@@ -23,6 +23,8 @@
 | 019 | 7 July | Space force talk \(recorded\).  |
 | 020 | 8 July | Nuclear Weapons. Mentoring: do what you love, opportunities. |
 | 021 | 9 July | Grad School at Wright-Patterson AFIT \(Air Force Institute Technology\). Cyberseek mentoring, benefits packages and training, K-12 STEM. |
+| 023 | 13 July | First day at the GRILL. Got lost at STEM school. Made Open Pose Demo work; took all day. |
+| 024 | 14 July | 2nd Day. Got CAC Card, met Maj. Eric Wolf in-person; he's awesome. |
 
 
 
