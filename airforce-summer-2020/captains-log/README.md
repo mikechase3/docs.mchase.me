@@ -27,7 +27,8 @@
 | 023 | 13 July | First day at the GRILL. Got lost at STEM school. Made Open Pose Demo work; took all day. |
 | 024 | 14 July | 2nd Day. Got CAC Card, met Maj. Eric Wolf in-person; he's awesome. |
 | 025 | 15 July | Social Troubles |
-| 026 | 16 July | Gretchen's last day, AFRL PCIP Session |
+| 026 | 16 July | Gretchen's last day, AFRL PCIP Session. |
+| 027 |  |  |
 
 
 
