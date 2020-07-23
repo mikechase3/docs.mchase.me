@@ -28,7 +28,10 @@
 | 024 | 14 July | 2nd Day. Got CAC Card, met Maj. Eric Wolf in-person; he's awesome. |
 | 025 | 15 July | Social Troubles |
 | 026 | 16 July | Gretchen's last day, AFRL PCIP Session. |
-| 027 |  |  |
+| 027 | 17 July | My last day at the GRILL. |
+| 028 | 20-21 | Telework on presentations |
+| 030 | 22 July | Base tour with Ummiyia; GRILL download repositories; drive home. |
+| 031 | 23 Jul | Mentoring session with Elieen Vidriene; COVID Presentation |
 
 
 
