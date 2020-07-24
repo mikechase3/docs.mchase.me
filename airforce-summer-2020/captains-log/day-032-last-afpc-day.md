@@ -37,5 +37,17 @@
 | :--- | :--- |
 | The Days In Your Life In Jellybeans |  |
 
+## Maj Wolf Meeting
 
+### Part Time
+
+* Contact Erica
+
+### Report
+
+* New Students
+* Issues: Network Connectivity
+* Points for Improvement
+  * I can bullet them
+* Nice, concise. Here's what we noticed & improvements.
 
