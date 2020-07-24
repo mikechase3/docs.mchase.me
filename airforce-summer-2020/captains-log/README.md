@@ -32,6 +32,7 @@
 | 028 | 20-21 | Telework on presentations |
 | 030 | 22 July | Base tour with Ummiyia; GRILL download repositories; drive home. |
 | 031 | 23 Jul | Mentoring session with Elieen Vidriene; COVID Presentation. Presentation wrap-up. |
+| 032 | 24 Jul | Closing Remarks |
 
 
 
