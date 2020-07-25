@@ -8,5 +8,5 @@ description: >-
 
 | Date | Activity |
 | :--- | :--- |
-| 07-25-2020 |  |
+| 07-25-2020 | Dr. Yao graph algorithm homework. |
 
