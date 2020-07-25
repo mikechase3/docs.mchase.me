@@ -3,9 +3,9 @@
 * [Timeline](README.md)
 * [FAQ](faq.md)
 
-## Airforce - Summer 2020
+## Airforce & Covid - Summer 2020 <a id="airforce-summer-2020"></a>
 
-* [Captain's Log](airforce-summer-2020/captains-log/README.md)
+* [Airforce Log](airforce-summer-2020/captains-log/README.md)
   * [Day 001: Teleworking & Legacy Project](airforce-summer-2020/captains-log/day-001.md)
   * [Day 002: Drum Cafe](airforce-summer-2020/captains-log/day-002-drum-cafe.md)
   * [Day 003: PILOT SCHOOL!](airforce-summer-2020/captains-log/day-003.md)
@@ -31,4 +31,5 @@
   * [Day 031: Mentoring Cyberseek](airforce-summer-2020/captains-log/day-032.md)
   * [Day 032: Last AFPC Day](airforce-summer-2020/captains-log/day-032-last-afpc-day.md)
 * [New Employee Orientation](airforce-summer-2020/jun-23-2020-onboarding.md)
+* [Post-AFPC Log](airforce-summer-2020/post-afpc-log.md)
 

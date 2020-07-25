@@ -1,4 +1,4 @@
-# Captain's Log
+# Airforce Log
 
 | Day | Date | Description |
 | :--- | :--- | :--- |
