@@ -34,4 +34,28 @@ Contact: Jim Froehlich
 
 ## Post Arrival
 
-* 
+### Recplex
+
+* You must _**sign up**_ for certain times to utilize the recplex.
+* Book pickup: must be pre-ordered.
+
+### Student Engagement
+
+* Virtual up the orgs: will be virtual this year.
+
+### Counseling Services
+
+* Coping with college
+* Anxiety toolbox
+* Let's talk.
+
+### Socials
+
+* Morning yoga on the lawn
+* Art in the afternoon
+* Movie in the park
+* Karaoke/open mic
+* Intramural sports.
+
+
+
