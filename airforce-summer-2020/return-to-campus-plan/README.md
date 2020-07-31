@@ -29,7 +29,7 @@ Contact: Jim Froehlich
 ### Testing
 
 * Bring test results if tested prior to arrival.
-* If onsight, several stations will conduct the PCR test.
+* If on-sight, several stations will conduct the PCR test.
 * You must self-quarentine in your room until the results come back.
 
 ## Post Arrival
