@@ -31,6 +31,8 @@
   * [Day 031: Mentoring Cyberseek](airforce-summer-2020/captains-log/day-032.md)
   * [Day 032: Last AFPC Day](airforce-summer-2020/captains-log/day-032-last-afpc-day.md)
 * [New Employee Orientation](airforce-summer-2020/jun-23-2020-onboarding.md)
-* [Return to Campus Plan](airforce-summer-2020/return-to-campus-plan/README.md)
-  * [Detailed Information](airforce-summer-2020/return-to-campus-plan/detailed-information.md)
+
+## Fall 2020
+
+* [Spray Paint VR](fall-2020/spray-paint-vr.md)
 
